@@ -9703,12 +9703,6 @@
 		"oAP": "\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_4\/android\/support\/v7\/appcompat\/R.class",
 		"oF": 0
 		},
-	"\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_4\/buildId.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_4\/buildId.txt",
-		"oF": 0
-		},
 	"\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_4\/com\/android\/tools\/fd\/dummy\/slice_4.class": {
 		"ft": 8192,
 		"oA": 2,
@@ -9839,12 +9833,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_6\/android\/support\/constraint\/R.class",
-		"oF": 0
-		},
-	"\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_6\/buildId.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_6\/buildId.txt",
 		"oF": 0
 		},
 	"\/app\/build\/intermediates\/transforms\/instantRunSlicer\/debug\/folders\/1\/5\/slice_6\/com\/android\/tools\/fd\/dummy\/slice_6.class": {
@@ -10105,18 +10093,6 @@
 		"oAP": "\/build\/app\/build\/outputs\/logs",
 		"oF": 0
 		},
-	"\/app\/build\/tmp\/expandedArchives\/classes.jar_4ns12b2023f6zb0qv667yrbhl\/com\/smsrelayshit\/smsrs\/BuildConfig.class": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/build\/tmp\/expandedArchives\/classes.jar_4ns12b2023f6zb0qv667yrbhl\/com\/smsrelayshit\/smsrs\/BuildConfig.class",
-		"oF": 0
-		},
-	"\/app\/build\/tmp\/expandedArchives\/classes.jar_4ns12b2023f6zb0qv667yrbhl\/com\/smsrelayshit\/smsrs\/smsRelay.class": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/build\/tmp\/expandedArchives\/classes.jar_4ns12b2023f6zb0qv667yrbhl\/com\/smsrelayshit\/smsrs\/smsRelay.class",
-		"oF": 0
-		},
 	"\/app\/proguard-rules.pro": {
 		"ft": 8192,
 		"oA": 2,
@@ -10250,6 +10226,17 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/app\/src\/main\/ic_launcher-web.png": {
+		"ft": 32768,
+		"iS": 25479,
+		"oA": 0,
+		"oAP": "\/app\/src\/main\/ic_launcher-web.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/app\/src\/main\/java\/com\/smsrelayshit\/smsrelayshit\/DemoMessage.java": {
 		"ft": 8192,
@@ -10785,8 +10772,8 @@
 		"oA": 0,
 		"oAP": "\/app\/src\/main\/res\/mipmap-hdpi\/ic_launcher.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -10807,8 +10794,8 @@
 		"oA": 0,
 		"oAP": "\/app\/src\/main\/res\/mipmap-mdpi\/ic_launcher.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -10829,8 +10816,8 @@
 		"oA": 0,
 		"oAP": "\/app\/src\/main\/res\/mipmap-xhdpi\/ic_launcher.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -10851,8 +10838,8 @@
 		"oA": 0,
 		"oAP": "\/app\/src\/main\/res\/mipmap-xxhdpi\/ic_launcher.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -10873,8 +10860,8 @@
 		"oA": 0,
 		"oAP": "\/app\/src\/main\/res\/mipmap-xxxhdpi\/ic_launcher.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -10925,160 +10912,16 @@
 		"oAP": "\/build.gradle",
 		"oF": 0
 		},
-	"\/build\/android-profile\/profile-2017-05-14-05-09-21-532.rawproto": {
+	"\/build\/android-profile\/profile-2017-05-14-09-16-28-202.rawproto": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-05-09-21-532.rawproto",
+		"oAP": "\/build\/android-profile\/profile-2017-05-14-09-16-28-202.rawproto",
 		"oF": 0
 		},
-	"\/build\/android-profile\/profile-2017-05-14-05-09-46-457.rawproto": {
+	"\/build\/android-profile\/profile-2017-05-14-09-16-52-247.rawproto": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-05-09-46-457.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-05-11-33-450.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-05-11-33-450.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-05-16-42-433.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-05-16-42-433.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-05-17-45-663.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-05-17-45-663.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-05-19-09-649.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-05-19-09-649.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-05-21-15-370.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-05-21-15-370.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-19-43-247.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-19-43-247.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-20-13-346.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-20-13-346.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-20-40-569.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-20-40-569.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-21-46-204.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-21-46-204.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-23-30-255.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-23-30-255.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-28-19-242.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-28-19-242.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-41-20-042.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-41-20-042.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-42-37-153.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-42-37-153.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-44-05-424.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-44-05-424.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-45-56-214.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-45-56-214.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-47-39-387.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-47-39-387.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-07-49-00-252.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-07-49-00-252.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-08-30-47-481.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-08-30-47-481.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-08-31-20-405.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-08-31-20-405.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-08-32-25-597.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-08-32-25-597.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-08-33-02-865.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-08-33-02-865.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-08-34-13-127.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-08-34-13-127.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-08-34-30-735.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-08-34-30-735.rawproto",
-		"oF": 0
-		},
-	"\/build\/android-profile\/profile-2017-05-14-08-34-54-776.rawproto": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/android-profile\/profile-2017-05-14-08-34-54-776.rawproto",
+		"oAP": "\/build\/android-profile\/profile-2017-05-14-09-16-52-247.rawproto",
 		"oF": 0
 		},
 	"\/build\/generated\/mockable-android-25.jar": {

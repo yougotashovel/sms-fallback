@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">SMS Relay Shit</string>
+    <string name="app_name">SMS Fallback</string>
     <string name="action_settings">Settings</string>
 </resources>
