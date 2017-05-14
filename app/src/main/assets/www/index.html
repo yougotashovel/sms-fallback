@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" href="style.css">
+   <script src="jquery.js"></script>
+   <script src="app.js"></script>
+</head>
+<body>
+
+   <div class="app">
+
+   <div class="message error hide-message">No internet connection.</div>
+   <div class="message wait hide-message">No LTE, using SMS Fallback...</div>
+   <div class="success hide-success">
+      <div id="reset" style="opacity: 0.5; font-size: 14px; margin-bottom: 50px;">SMS Fallback Response</div>
+      Your cab is on its way. <span id="price"></span><br><br><br>
+
+      <div class="success-container">
+      <div class="success-title">License</div><div class="success-info">J012 RTY</div>
+      <div class="success-title">Driver</div><div class="success-info">Bob Loblaw</div>
+      <div class="success-title">Pickup</div><div class="success-info">128w 8th Av, 3rd St</div>
+      </div>
+
+   </div>
+   <div class="loading-bg hide-loading"><div class="loading-spinner"><div class="loader"></div><div class="loading-text">Loading</div></div></div>
+   <div class="map"></div>
+   <h1>Confirm pickup</h1>
+   <div class="button-container">
+      <button id="button">Request Cab</button>
+   </div>
+
+
+   </div>
+</body>
+</html>
